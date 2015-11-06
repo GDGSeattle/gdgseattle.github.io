@@ -11,9 +11,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Seattle GDG DevFest 2015"
-email: "kennjason@gmail.com"
+email: "clive.boulton@gmail.com"
 description: "GDG DevFest 2015 will focus on integrating Google Cloud, Firebase & Android"
-baseurl: "/zeppelin"
+baseurl: "/"
 url: "https://gdgseattle.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
